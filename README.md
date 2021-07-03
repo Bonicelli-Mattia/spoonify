@@ -7,7 +7,7 @@ The constraints around this hackathon were the following:
 * Use the industry partner [Stripe](https://stripe.com/docs/api)'s API.
 
 ## Youtube video
-You can see the event and the presentation at the following link: [Youtube](https://www.youtube.com/watch?v=DHtAGdg5S_4)
+You can see the event and the presentation at the following link: [Youtube](https://www.youtube.com/watch?v=DHtAGdg5S_4&t=3549s)
 
 ## Thanks
 Thanks to the team at **Stripe** for the opportunity to work with them during four days, for their support and for taking the time to answer all of our questions.
